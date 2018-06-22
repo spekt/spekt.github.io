@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="spekt.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path909"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:0.99215686;fill:#000000;fill-opacity:0.99215686"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <symbol
+       id="Process">
+      <title
+         id="title2757">Process</title>
+      <desc
+         id="desc2759">Any processing function.</desc>
+      <rect
+         x="3.96875"
+         y="9.260417"
+         width="31.75"
+         height="21.166666"
+         style="stroke-width:0.52916664"
+         id="rect2761" />
+    </symbol>
+    <symbol
+       id="Terminal">
+      <title
+         id="title2843">Terminal/Interrupt</title>
+      <desc
+         id="desc2845">A terminal point in a flowchart: start, stop, halt, etc.</desc>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 9.2604167,25.135417 a 5.291667,5.291667 0 0 1 0,-10.583334 H 30.427083 a 5.291667,5.291667 0 0 1 0,10.583334 z"
+         style="stroke-width:0.52916664"
+         id="path2847" />
+    </symbol>
+    <symbol
+       id="Decision">
+      <title
+         id="title2799">Decision</title>
+      <desc
+         id="desc2801">A decision or switching type operation.</desc>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 3.96875,19.84375 15.875,-10.5833333 15.875,10.5833333 -15.875,10.583333 z"
+         style="stroke-width:0.52916664"
+         id="path2803" />
+    </symbol>
+    <symbol
+       id="Connector">
+      <title
+         id="title2885">Connector</title>
+      <desc
+         id="desc2887">Exit to or entry from another part of chart.</desc>
+      <circle
+         cx="19.84375"
+         cy="19.84375"
+         r="5.2916665"
+         style="stroke-width:0.52916664"
+         id="circle2889" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="496.90128"
+     inkscape:cy="849.34805"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="false"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="884"
+     inkscape:window-x="0"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid834" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <use
+       id="use8639"
+       style="fill:#ffaaaa;stroke:#000000"
+       xlink:href="#Process"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.58333335,0,0,0.45,51.924479,38.568228)" />
+    <use
+       id="use8667"
+       style="fill:#b3ff80;stroke:#000000;fill-opacity:0.99607843"
+       xlink:href="#Terminal"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.62999994,0,0,0.75732487,51.315937,75.822658)" />
+    <use
+       id="use8695"
+       style="fill:#f4d7d7;stroke:#000000"
+       xlink:href="#Decision"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.58333333,0,0,0.74999999,51.924479,57.221354)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.29765624px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63.499999,52.260417 v 11.90625"
+       id="path8787"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23096265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 45.087745,72.104167 V 65.489583"
+       id="path8791"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19415109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 54.239583,72.104167 H 44.979167"
+       id="path8793"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <use
+       id="use8639-7"
+       style="fill:#ffe680;stroke:#000000"
+       xlink:href="#Process"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.58333336,0,0,0.45,33.403645,53.384897)" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.27327868px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 45.129506,57.552084 V 48.291667"
+       id="path8791-9"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19415109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 54.239583,48.291667 H 44.979167"
+       id="path8793-4"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.22185986px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 63.5,80.041667 V 86.65625"
+       id="path8787-9"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot847"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(3.263228,0,0,4.8621848,-96.621592,-903.24981)"><flowRegion
+         id="flowRegion849"><rect
+           id="rect851"
+           width="50"
+           height="160"
+           x="35"
+           y="192.51968" /></flowRegion><flowPara
+         id="flowPara853">{</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:46.78937912px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.89911461px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="90.782547"
+       y="67.556938"
+       id="text881"
+       transform="scale(0.79994115,1.250092)"><tspan
+         sodipodi:role="line"
+         id="tspan879"
+         x="90.782547"
+         y="67.556938"
+         style="stroke-width:3.89911461px">}</tspan></text>
+    <path
+       style="fill:none;fill-opacity:0.99607843;stroke:#cccccc;stroke-width:1.41111112;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+       id="path1173"
+       sodipodi:type="arc"
+       sodipodi:cx="152.13542"
+       sodipodi:cy="61.520832"
+       sodipodi:rx="13.229166"
+       sodipodi:ry="13.229166"
+       sodipodi:start="3.9107767"
+       sodipodi:end="3.8752418"
+       sodipodi:open="true"
+       d="m 142.63055,52.319296 a 13.229166,13.229166 0 0 1 18.62161,-0.384702 13.229166,13.229166 0 0 1 0.55011,18.617453 13.229166,13.229166 0 0 1 -18.61183,0.715483 13.229166,13.229166 0 0 1 -0.8808,-18.604742" />
+    <rect
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0"
+       id="rect1235"
+       width="5.2916665"
+       height="27.78125"
+       x="160.07292"
+       y="78.71875"
+       ry="0.49999899" />
+  </g>
+</svg>

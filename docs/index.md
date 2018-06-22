@@ -13,19 +13,19 @@ A few of our projects...
 > *gui* based tools, no admin permissions. About ~18 MB fat. Tastes awesome and
 > that's as small as it gets ;) Suitable for your CIs.
 
-https://github.com/spekt/vstest-get
+<https://github.com/spekt/vstest-get>
 
 ### vstest-docker
 > So we took that single line installer and cooked an image with `mono` and
 > `vstest.console` built-in. About ~140 MB fat. Comes with everything to kickstart
 > your project on a container!
 
-https://github.com/spekt/vstest-docker
+<https://github.com/spekt/vstest-docker>
 
 ### appveyor.testlogger
 > A reporting addon for one of the best free *windows based* CIs.
 
-https://github.com/spekt/appveyor.testlogger
+<https://github.com/spekt/appveyor.testlogger>
 
 ### and more...
 __Discover more at <https://github.com/spekt>!__
