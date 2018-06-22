@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Spekt is a collection of tools for making testing awesome! We're a community of\ndevelopers passionate about software quality. We want to evolve testing to\ncontemporary patterns and help ourselves become a better engineers in the\nprocess.\n\n\nWe breathe, think and act in the open. All our code is on \ngithub\n.\n\n\nA few of our projects...\n\n\nOur projects\n\n\nvstest-get\n\n\n\n\nOne line \nsugar free\n installation of \nvstest.console.exe\n. No registry, no\n\ngui\n based tools, no admin permissions. About ~18 MB fat. Tastes awesome and\nthat's as small as it gets ;) Suitable for your CIs.\n\n\n\n\nhttps://github.com/spekt/vstest-get\n\n\nvstest-docker\n\n\n\n\nSo we took that single line installer and cooked an image with \nmono\n and\n\nvstest.console\n built-in. About ~140 MB fat. Comes with everything to kickstart\nyour project on a container!\n\n\n\n\nhttps://github.com/spekt/vstest-docker\n\n\nappveyor.testlogger\n\n\n\n\nA reporting addon for one of the best free \nwindows based\n CIs.\n\n\n\n\nhttps://github.com/spekt/appveyor.testlogger\n\n\nand more...\n\n\nDiscover more at \nhttps://github.com/spekt\n!\n\n\nJoin us!\n\n\nYou're invited to join us and help make testing awesome. We may seem a bit biased\ntowards \n.NET\n universe. A few of us started our journeys there and swear by the\nways we could make it better! :)\n\n\nIf you've an idea, don't hesitate to create an issue at \nhttps://github.com/spekt/spekt.github.io/issues/new\n.\n\n\nLet's do this together! \n\u2665",
+            "title": "Spekt"
+        },
+        {
+            "location": "/#our-projects",
+            "text": "",
+            "title": "Our projects"
+        },
+        {
+            "location": "/#vstest-get",
+            "text": "One line  sugar free  installation of  vstest.console.exe . No registry, no gui  based tools, no admin permissions. About ~18 MB fat. Tastes awesome and\nthat's as small as it gets ;) Suitable for your CIs.   https://github.com/spekt/vstest-get",
+            "title": "vstest-get"
+        },
+        {
+            "location": "/#vstest-docker",
+            "text": "So we took that single line installer and cooked an image with  mono  and vstest.console  built-in. About ~140 MB fat. Comes with everything to kickstart\nyour project on a container!   https://github.com/spekt/vstest-docker",
+            "title": "vstest-docker"
+        },
+        {
+            "location": "/#appveyortestlogger",
+            "text": "A reporting addon for one of the best free  windows based  CIs.   https://github.com/spekt/appveyor.testlogger",
+            "title": "appveyor.testlogger"
+        },
+        {
+            "location": "/#and-more",
+            "text": "Discover more at  https://github.com/spekt !",
+            "title": "and more..."
+        },
+        {
+            "location": "/#join-us",
+            "text": "You're invited to join us and help make testing awesome. We may seem a bit biased\ntowards  .NET  universe. A few of us started our journeys there and swear by the\nways we could make it better! :)  If you've an idea, don't hesitate to create an issue at  https://github.com/spekt/spekt.github.io/issues/new .  Let's do this together!  \u2665",
+            "title": "Join us!"
+        }
+    ]
+}
